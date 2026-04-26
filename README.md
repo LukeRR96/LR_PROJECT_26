@@ -3,7 +3,7 @@ ArcNLET-based groundwater modeling project analyzing nitrogen transport from sep
 
 ## Run the Project
 
-[Launch Binder](https://mybinder.org/v2/gh/YOUR_USERNAME/LR_PROJECT_26/main)
+[Launch Binder](https://mybinder.org/v2/gh/LukeRR96/LR_PROJECT_26/head)
 
 # Groundwater Nitrogen Plume Modeling Using ArcNLET
 
