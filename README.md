@@ -1,5 +1,10 @@
 # LR_PROJECT_26
 ArcNLET-based groundwater modeling project analyzing nitrogen transport from septic systems and evaluating the effectiveness of aerobic treatment units (ATUs) in reducing plume concentrations
+
+## Run the Project
+
+[Launch Binder](https://mybinder.org/v2/gh/YOUR_USERNAME/LR_PROJECT_26/main)
+
 # Groundwater Nitrogen Plume Modeling Using ArcNLET
 
 This project uses ArcNLET to simulate groundwater nitrogen transport from septic systems and evaluate the effectiveness of aerobic treatment units (ATUs) in reducing plume concentrations.
